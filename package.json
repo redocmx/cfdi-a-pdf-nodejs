@@ -1,0 +1,28 @@
+{
+  "name": "cfdi-a-pdf",
+  "version": "0.0.1",
+  "description": "Conversión y personalización de CFDI a PDF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redocmx/cfdi-a-pdf-nodejs.git"
+  },
+  "keywords": [
+    "cfdi a pdf",
+    "conversión cfdi a pdf",
+    "sat cfdi",
+    "cfdi",
+    "personalziar cfdi a pdf"
+    "comprobante fiscal digital por internet",
+    "méxico"
+  ],
+  "author": "redocmx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/redocmx/cfdi-a-pdf-nodejs/issues"
+  },
+  "homepage": "https://github.com/redocmx/cfdi-a-pdf-nodejs#readme"
+}
